@@ -1,0 +1,44 @@
+body{
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.box{
+    border-radius: 20px;
+    border: 4px white solid;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    color: blue;
+}
+footer{
+    text-align: end;
+    align-items: end;
+}
+a{
+    text-decoration: none;
+    justify-content: space-around;
+    display:inline;
+    font-size: 24px;
+}
+a:hover{
+    transition: 1s;
+    font-size: 1.6rem;
+    color: cyan;
+    background-color: blue;
+
+}
+span{
+    font-size: 150%;
+    color: purple;
+}
+nav{
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+}
+header{
+    background-color: cyan;
+    border-radius: 20px;
+    padding: 15px;
+}
